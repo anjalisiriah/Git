@@ -5,3 +5,7 @@ public class multiply {
         System.out.println(" The product is:" +(a*b));
     }
 }
+
+
+
+
